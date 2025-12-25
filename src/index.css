@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap");
+
+
+
+@import "tailwindcss";
+
+/* ===========================
+   Playfair Display
+   =========================== */
+
+.playfair-regular {
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+}
+
+.playfair-medium {
+  font-family: "Playfair Display", serif;
+  font-weight: 500;
+}
+
+.playfair-semibold {
+  font-family: "Playfair Display", serif;
+  font-weight: 600;
+}
+
+.playfair-bold {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+}
+
+/* ===========================
+   Inter
+   =========================== */
+
+.inter-light {
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+}
+
+.inter-regular {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+}
+
+.inter-medium {
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+}
+
+.inter-semibold {
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+}
+
+.inter-bold {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+}
+
+/* ===========================
+   Poppins
+   =========================== */
+
+.poppins-light {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+}
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+}
+
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
+
+.poppins-semibold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
+
+.poppins-bold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
